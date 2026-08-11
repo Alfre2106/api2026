@@ -114,15 +114,7 @@ Abre tu navegador e ingresa a `http://127.0.0.1:8000/docs` para interactuar con 
 
 ```
 
----
 
-### **Pasos para actualizar el `README.md` en GitHub:**
 
-Una vez que guardes los cambios en el archivo `README.md`, ejecuta los siguientes comandos en tu terminal de VS Code para subir la actualización:
 
-```powershell
-git add README.md
-git commit -m "docs: actualiza el README con la arquitectura y endpoints de la API"
-git push
 
-```
