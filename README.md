@@ -112,7 +112,7 @@ uvicorn main:app --reload
 6. **Probar la API:**
 Abre tu navegador e ingresa a `http://127.0.0.1:8000/docs` para interactuar con la documentación generada por Swagger UI.
 
-```
+
 
 
 
